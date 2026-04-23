@@ -57,3 +57,7 @@ server {
 #composer
 
 composer install
+
+#Создать базу genomed и прописать в конфиге доступы к ней.
+
+#накатить миграции
